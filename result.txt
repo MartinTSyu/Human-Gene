@@ -1,0 +1,25 @@
+FatherGenome :
+['1-FGA', '1-FGa', '2-FGA', '2-FGa', '3-FGA', '3-FGa', '4-FGA', '4-FGa', '5-FGA', '5-FGa', '6-FGA', '6-FGa', '7-FGA', '7-FGa', '8-FGA', '8-FGa', '9-FGA', '9-FGa', '10-FGA', '10-FGa', '11-FGA', '11-FGa', '12-FGA', '12-FGa', '13-FGA', '13-FGa', '14-FGA', '14-FGa', '15-FGA', '15-FGa', '16-FGA', '16-FGa', '17-FGA', '17-FGa', '18-FGA', '18-FGa', '19-FGA', '19-FGa', '20-FGA', '20-FGa', '21-FGA', '21-FGa', '22-FGA', '22-FGa', '23-FGA', '23-FGa']
+-------------
+MotherGenome :
+['1-MGB', '1-MGb', '2-MGB', '2-MGb', '3-MGB', '3-MGb', '4-MGB', '4-MGb', '5-MGB', '5-MGb', '6-MGB', '6-MGb', '7-MGB', '7-MGb', '8-MGB', '8-MGb', '9-MGB', '9-MGb', '10-MGB', '10-MGb', '11-MGB', '11-MGb', '12-MGB', '12-MGb', '13-MGB', '13-MGb', '14-MGB', '14-MGb', '15-MGB', '15-MGb', '16-MGB', '16-MGb', '17-MGB', '17-MGb', '18-MGB', '18-MGb', '19-MGB', '19-MGb', '20-MGB', '20-MGb', '21-MGB', '21-MGb', '22-MGB', '22-MGb', '23-MGB', '23-MGb']
+-------------
+RealFatherGenome :
+[('1-FGA', '1-FGa'), ('2-FGA', '2-FGa'), ('3-FGA', '3-FGa'), ('4-FGA', '4-FGa'), ('5-FGA', '5-FGa'), ('6-FGA', '6-FGa'), ('7-FGA', '7-FGa'), ('8-FGA', '8-FGa'), ('9-FGA', '9-FGa'), ('10-FGA', '10-FGa'), ('11-FGA', '11-FGa'), ('12-FGA', '12-FGa'), ('13-FGA', '13-FGa'), ('14-FGA', '14-FGa'), ('15-FGA', '15-FGa'), ('16-FGA', '16-FGa'), ('17-FGA', '17-FGa'), ('18-FGA', '18-FGa'), ('19-FGA', '19-FGa'), ('20-FGA', '20-FGa'), ('21-FGA', '21-FGa'), ('22-FGA', '22-FGa'), ('23-FGA', '23-FGa')]
+-------------
+RealMotherGenome :
+[('1-MGB', '1-MGb'), ('2-MGB', '2-MGb'), ('3-MGB', '3-MGb'), ('4-MGB', '4-MGb'), ('5-MGB', '5-MGb'), ('6-MGB', '6-MGb'), ('7-MGB', '7-MGb'), ('8-MGB', '8-MGb'), ('9-MGB', '9-MGb'), ('10-MGB', '10-MGb'), ('11-MGB', '11-MGb'), ('12-MGB', '12-MGb'), ('13-MGB', '13-MGb'), ('14-MGB', '14-MGb'), ('15-MGB', '15-MGb'), ('16-MGB', '16-MGb'), ('17-MGB', '17-MGb'), ('18-MGB', '18-MGb'), ('19-MGB', '19-MGb'), ('20-MGB', '20-MGb'), ('21-MGB', '21-MGb'), ('22-MGB', '22-MGb'), ('23-MGB', '23-MGb')]
+-------------
+ChanceRealFatherGenome :
+['1-FGA', '2-FGA', '3-FGa', '4-FGa', '5-FGa', '6-FGA', '7-FGa', '8-FGA', '9-FGA', '10-FGA', '11-FGA', '12-FGA', '13-FGA', '14-FGa', '15-FGa', '16-FGa', '17-FGa', '18-FGA', '19-FGa', '20-FGa', '21-FGA', '22-FGA', '23-FGA']
+-------------
+ChanceRealMotherGenome :
+['1-MGB', '2-MGB', '3-MGb', '4-MGB', '5-MGb', '6-MGb', '7-MGB', '8-MGb', '9-MGb', '10-MGB', '11-MGB', '12-MGb', '13-MGB', '14-MGB', '15-MGB', '16-MGB', '17-MGb', '18-MGB', '19-MGB', '20-MGb', '21-MGB', '22-MGB', '23-MGb']
+-------------
+BabyGenome :
+[('1-FGA', '1-MGB'), ('2-FGA', '2-MGB'), ('3-FGa', '3-MGb'), ('4-FGa', '4-MGB'), ('5-FGa', '5-MGb'), ('6-FGA', '6-MGb'), ('7-FGa', '7-MGB'), ('8-FGA', '8-MGb'), ('9-FGA', '9-MGb'), ('10-FGA', '10-MGB'), ('11-FGA', '11-MGB'), ('12-FGA', '12-MGb'), ('13-FGA', '13-MGB'), ('14-FGa', '14-MGB'), ('15-FGa', '15-MGB'), ('16-FGa', '16-MGB'), ('17-FGa', '17-MGb'), ('18-FGA', '18-MGB'), ('19-FGa', '19-MGB'), ('20-FGa', '20-MGb'), ('21-FGA', '21-MGB'), ('22-FGA', '22-MGB'), ('23-FGA', '23-MGb')]
+-------------
+The 23rd Gene is :
+('23-FGA', '23-MGb')
+-------------
+She is your girl!
